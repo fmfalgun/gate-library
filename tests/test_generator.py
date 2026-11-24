@@ -37,6 +37,7 @@ def test_index_has_computed_fields(tmp_path):
     assert paths["pyq_years"] == [2024] and paths["questions"] == ["gate-2024-cs-s2-q23"]
     assert paths["question_stats"] == {"total": 1, "pyq": 1, "generated": 0, "attempted": 1, "accuracy": 1.0}
     assert paths["papers"] == ["cs"] and index["items"]["gate-2024-cs-s2-q23"]["links"] == {"topics": ["shortest-paths"]}
+    assert paths["slug"] == "shortest-paths" and index["items"]["gate-2024-cs-s2-q23"]["slug"] == "gate-2024-cs-s2-q23"
     assert index["counts"] == {"questions": 3, "topics": 3}
 
 

@@ -56,7 +56,7 @@ def _base_entry(repo: Repo, item: Item, links: dict) -> dict:
     """Build the entry parts shared by both kinds: identity, url, links, extension keys."""
     names = _TOPIC_FIELDS if item.kind == "topic" else _QUESTION_FIELDS
     entry = {name: _field_value(item, name) for name in names}
-    entry.update(kind=item.kind, path=item.path, url=BASE_URL + item.path, links=links)
+    entry.update(slug=item.slug, kind=item.kind, path=item.path, url=BASE_URL + item.path, links=links)
     entry["extra"] = {key: value for key, value in item.data.items() if key.startswith("x_")}
     return entry
 
