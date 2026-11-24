@@ -2,36 +2,36 @@
   "papers": {
     "cs": {
       "all": {
-        "covered": 1,
+        "covered": 5,
         "exam_ready": 0,
         "items": 79,
-        "percent_covered": 1.3,
+        "percent_covered": 6.3,
         "percent_exam_ready": 0.0
       },
-      "covered": 1,
+      "covered": 5,
       "exam_ready": 0,
       "exam_year": 2027,
       "items": 79,
       "name": "Computer Science and Information Technology",
-      "percent_covered": 1.3,
+      "percent_covered": 6.3,
       "percent_exam_ready": 0.0,
       "retrieved": "2026-11-24",
       "source_url": "https://gate2027.iitm.ac.in/static/doc/GATE2027_Syllabus/CS_GATE2027_Syllabus.pdf",
       "subjects": [
         {
           "all": {
-            "covered": 1,
+            "covered": 5,
             "exam_ready": 0,
             "items": 19,
-            "percent_covered": 5.3,
+            "percent_covered": 26.3,
             "percent_exam_ready": 0.0
           },
-          "covered": 1,
+          "covered": 5,
           "exam_ready": 0,
           "id": "engineering-mathematics",
           "items": 19,
           "name": "Engineering Mathematics",
-          "percent_covered": 5.3,
+          "percent_covered": 26.3,
           "percent_exam_ready": 0.0,
           "syllabus_items": [
             {
@@ -86,21 +86,29 @@
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "linear-algebra-matrices",
               "text": "Linear Algebra: Matrices"
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "linear-algebra-determinants",
               "text": "Linear Algebra: Determinants"
             },
@@ -120,21 +128,29 @@
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "linear-algebra-eigenvalues-and-eigenvectors",
               "text": "Linear Algebra: Eigenvalues and eigenvectors"
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "linear-algebra-lu-decomposition",
               "text": "Linear Algebra: LU decomposition"
             },
@@ -996,18 +1012,18 @@
     },
     "da": {
       "all": {
-        "covered": 4,
+        "covered": 16,
         "exam_ready": 0,
         "items": 88,
-        "percent_covered": 4.5,
+        "percent_covered": 18.2,
         "percent_exam_ready": 0.0
       },
-      "covered": 4,
+      "covered": 16,
       "exam_ready": 0,
       "exam_year": 2027,
       "items": 88,
       "name": "Data Science and Artificial Intelligence",
-      "percent_covered": 4.5,
+      "percent_covered": 18.2,
       "percent_exam_ready": 0.0,
       "retrieved": "2026-11-24",
       "source_url": "https://gate2027.iitm.ac.in/static/doc/GATE2027_Syllabus/DA_GATE2027_Syllabus.pdf",
@@ -1262,97 +1278,129 @@
         },
         {
           "all": {
-            "covered": 4,
+            "covered": 16,
             "exam_ready": 0,
             "items": 18,
-            "percent_covered": 22.2,
+            "percent_covered": 88.9,
             "percent_exam_ready": 0.0
           },
-          "covered": 4,
+          "covered": 16,
           "exam_ready": 0,
           "id": "linear-algebra",
           "items": 18,
           "name": "Linear Algebra",
-          "percent_covered": 22.2,
+          "percent_covered": 88.9,
           "percent_exam_ready": 0.0,
           "syllabus_items": [
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "vector-space",
               "text": "Vector space"
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "subspaces",
               "text": "Subspaces"
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "linear-dependence-and-independence-of-vectors",
               "text": "Linear dependence and independence of vectors"
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "matrices",
               "text": "Matrices"
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "projection-matrix",
               "text": "Projection matrix"
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "orthogonal-matrix",
               "text": "Orthogonal matrix"
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "idempotent-matrix",
               "text": "Idempotent matrix"
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "partition-matrix-and-their-properties",
               "text": "Partition matrix and their properties"
             },
@@ -1396,21 +1444,29 @@
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "eigenvalues-and-eigenvectors",
               "text": "Eigenvalues and eigenvectors"
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "determinant",
               "text": "Determinant"
             },
@@ -1454,21 +1510,29 @@
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "lu-decomposition",
               "text": "LU decomposition"
             },
             {
               "all": {
-                "best_status": "none",
-                "covered_by": []
+                "best_status": "learning",
+                "covered_by": [
+                  "linear-algebra"
+                ]
               },
-              "best_status": "none",
-              "covered_by": [],
+              "best_status": "learning",
+              "covered_by": [
+                "linear-algebra"
+              ],
               "id": "singular-value-decomposition",
               "text": "Singular value decomposition"
             }

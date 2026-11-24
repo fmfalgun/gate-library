@@ -1,8 +1,8 @@
 {
-  "content_hash": "bfd023af098977ceeac52d054b72d9c2cc15a719b2323f444d5956b533ba05c8",
+  "content_hash": "e45ed0ad185eb3edff74f007131a8c6ee2603ab740f9181f6d78058a46768367",
   "counts": {
     "questions": 2,
-    "topics": 3
+    "topics": 4
   },
   "diagnostics": {
     "warnings": []
@@ -22,7 +22,9 @@
           "gen-gaussian-elimination-001",
           "gen-gaussian-elimination-002"
         ],
-        "related": [],
+        "related": [
+          "linear-algebra"
+        ],
         "required_by": []
       },
       "papers": [
@@ -147,6 +149,83 @@
       "updated": "2026-11-24",
       "url": "https://fmfalgun.github.io/gate-library/questions/gen-gaussian-elimination-002.yaml"
     },
+    "linear-algebra": {
+      "confidence": 1,
+      "created": "2026-11-24",
+      "extra": {},
+      "kind": "topic",
+      "links": {
+        "prerequisites": [],
+        "questions": [],
+        "related": [
+          "gaussian-elimination",
+          "matrix-rank",
+          "system-of-linear-equations"
+        ],
+        "required_by": []
+      },
+      "papers": [
+        "cs",
+        "da"
+      ],
+      "path": "topics/linear-algebra.md",
+      "prerequisites": [],
+      "pyq_years": [],
+      "question_stats": {
+        "accuracy": null,
+        "attempted": 0,
+        "generated": 0,
+        "pyq": 0,
+        "total": 0
+      },
+      "questions": [],
+      "related": [
+        "gaussian-elimination",
+        "matrix-rank",
+        "system-of-linear-equations"
+      ],
+      "show_on": [
+        "portfolio"
+      ],
+      "slug": "linear-algebra",
+      "sources": [
+        {
+          "label": "GeeksforGeeks - Linear Algebra (LMNs)",
+          "url": "https://www.geeksforgeeks.org/lmns-linear-algebra/"
+        },
+        {
+          "label": "GATE 2027 CS syllabus (IIT Madras)",
+          "url": "https://gate2027.iitm.ac.in/static/doc/GATE2027_Syllabus/CS_GATE2027_Syllabus.pdf"
+        }
+      ],
+      "status": "learning",
+      "summary": "Map of GATE linear algebra, from vector spaces and matrix types to determinants, eigenvalues, LU, projections and SVD, with the key facts and the traps that PYQs test.",
+      "syllabus": [
+        "cs:engineering-mathematics/linear-algebra-determinants",
+        "cs:engineering-mathematics/linear-algebra-eigenvalues-and-eigenvectors",
+        "cs:engineering-mathematics/linear-algebra-lu-decomposition",
+        "cs:engineering-mathematics/linear-algebra-matrices",
+        "da:linear-algebra/determinant",
+        "da:linear-algebra/eigenvalues-and-eigenvectors",
+        "da:linear-algebra/idempotent-matrix",
+        "da:linear-algebra/linear-dependence-and-independence-of-vectors",
+        "da:linear-algebra/lu-decomposition",
+        "da:linear-algebra/matrices",
+        "da:linear-algebra/orthogonal-matrix",
+        "da:linear-algebra/partition-matrix-and-their-properties",
+        "da:linear-algebra/projection-matrix",
+        "da:linear-algebra/singular-value-decomposition",
+        "da:linear-algebra/subspaces",
+        "da:linear-algebra/vector-space"
+      ],
+      "tags": [
+        "linear-algebra"
+      ],
+      "title": "Linear algebra (overview)",
+      "updated": "2026-11-24",
+      "url": "https://fmfalgun.github.io/gate-library/topics/linear-algebra.md",
+      "xrefs": []
+    },
     "matrix-rank": {
       "confidence": 1,
       "created": "2026-11-24",
@@ -155,7 +234,9 @@
       "links": {
         "prerequisites": [],
         "questions": [],
-        "related": [],
+        "related": [
+          "linear-algebra"
+        ],
         "required_by": [
           "gaussian-elimination",
           "system-of-linear-equations"
@@ -207,7 +288,9 @@
         "questions": [
           "gen-gaussian-elimination-002"
         ],
-        "related": [],
+        "related": [
+          "linear-algebra"
+        ],
         "required_by": [
           "gaussian-elimination"
         ]
@@ -255,6 +338,7 @@
   "tags": {
     "linear-algebra": [
       "gaussian-elimination",
+      "linear-algebra",
       "matrix-rank",
       "system-of-linear-equations"
     ]

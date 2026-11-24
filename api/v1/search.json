@@ -40,6 +40,20 @@
   {
     "kind": "topic",
     "papers": [
+      "cs",
+      "da"
+    ],
+    "slug": "linear-algebra",
+    "status": "learning",
+    "summary": "Map of GATE linear algebra, from vector spaces and matrix types to determinants, eigenvalues, LU, projections and SVD, with the key facts and the traps that PYQs test.",
+    "tags": [
+      "linear-algebra"
+    ],
+    "title": "Linear algebra (overview)"
+  },
+  {
+    "kind": "topic",
+    "papers": [
       "da"
     ],
     "slug": "matrix-rank",

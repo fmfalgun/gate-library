@@ -51,13 +51,24 @@ For $A = \begin{pmatrix} 1 & 2 \\ 2 & 4 \end{pmatrix}$ the second row is twice t
 - Rank counts independent rows, not non-zero rows of the original matrix.
 - Rank is unchanged by row operations but the pivot positions are not unique to the matrix itself.
 
+### 2026-11-24 - Correction: pivot columns are fixed by the matrix
+
+The pivot *values* depend on the row operations you choose, but the pivot *columns* do not: the reduced row echelon form of a matrix is unique. The earlier trap above overstated this.
+
+### 2026-11-24 - Null space always contains the zero vector
+
+$N(A) = \{x : Ax = \mathbf 0\}$ always contains $\mathbf 0$, so it is never empty. Nullity $0$ means $\mathbf 0$ is the *only* solution, not that there is none. (The LMN page wording suggests otherwise.)
+
 ## Revision sheet
 
 - rank = number of pivots in echelon form
 - rank = dim(row space) = dim(column space)
 - rank + nullity = number of columns
 - rank <= min(rows, columns)
+- rank(AB) <= min(rank A, rank B)
 - invertible square matrix <=> full rank <=> det != 0
+- pivot columns are unique (RREF is unique); pivot values are not
+- null space always contains 0; nullity 0 <=> only the trivial solution
 
 ## Connections
 
