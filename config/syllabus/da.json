@@ -1,0 +1,403 @@
+{
+  "exam_year": 2027,
+  "name": "Data Science and Artificial Intelligence",
+  "paper": "da",
+  "retrieved": "2026-11-24",
+  "source_url": "https://gate2027.iitm.ac.in/static/doc/GATE2027_Syllabus/DA_GATE2027_Syllabus.pdf",
+  "subjects": [
+    {
+      "id": "probability-and-statistics",
+      "items": [
+        {
+          "id": "counting-permutation-and-combinations",
+          "text": "Counting (permutation and combinations)"
+        },
+        {
+          "id": "probability-axioms",
+          "text": "Probability axioms"
+        },
+        {
+          "id": "sample-space",
+          "text": "Sample space"
+        },
+        {
+          "id": "events",
+          "text": "Events"
+        },
+        {
+          "id": "independent-events",
+          "text": "Independent events"
+        },
+        {
+          "id": "mutually-exclusive-events",
+          "text": "Mutually exclusive events"
+        },
+        {
+          "id": "marginal-conditional-and-joint-probability",
+          "text": "Marginal, conditional and joint probability"
+        },
+        {
+          "id": "bayes-theorem",
+          "text": "Bayes Theorem"
+        },
+        {
+          "id": "conditional-expectation-and-variance",
+          "text": "Conditional expectation and variance"
+        },
+        {
+          "id": "mean-median-mode-and-standard-deviation",
+          "text": "Mean, median, mode and standard deviation"
+        },
+        {
+          "id": "correlation-and-covariance",
+          "text": "Correlation and covariance"
+        },
+        {
+          "id": "random-variables",
+          "text": "Random variables"
+        },
+        {
+          "id": "discrete-random-variables-and-probability-mass-functions",
+          "text": "Discrete random variables and probability mass functions"
+        },
+        {
+          "id": "uniform-bernoulli-binomial-distribution",
+          "text": "Uniform, Bernoulli, binomial distribution"
+        },
+        {
+          "id": "continuous-random-variables-and-probability-distribution-function",
+          "text": "Continuous random variables and probability distribution function"
+        },
+        {
+          "id": "uniform-exponential-poisson-normal-standard-normal-t-distribution-chi-squared-di",
+          "text": "Uniform, exponential, Poisson, normal, standard normal, t-distribution, chi-squared distributions"
+        },
+        {
+          "id": "cumulative-distribution-function",
+          "text": "Cumulative distribution function"
+        },
+        {
+          "id": "conditional-pdf",
+          "text": "Conditional PDF"
+        },
+        {
+          "id": "central-limit-theorem",
+          "text": "Central limit theorem"
+        },
+        {
+          "id": "confidence-interval",
+          "text": "Confidence interval"
+        },
+        {
+          "id": "z-test",
+          "text": "z-test"
+        },
+        {
+          "id": "t-test",
+          "text": "t-test"
+        },
+        {
+          "id": "chi-squared-test",
+          "text": "Chi-squared test"
+        }
+      ],
+      "name": "Probability and Statistics"
+    },
+    {
+      "id": "linear-algebra",
+      "items": [
+        {
+          "id": "vector-space",
+          "text": "Vector space"
+        },
+        {
+          "id": "subspaces",
+          "text": "Subspaces"
+        },
+        {
+          "id": "linear-dependence-and-independence-of-vectors",
+          "text": "Linear dependence and independence of vectors"
+        },
+        {
+          "id": "matrices",
+          "text": "Matrices"
+        },
+        {
+          "id": "projection-matrix",
+          "text": "Projection matrix"
+        },
+        {
+          "id": "orthogonal-matrix",
+          "text": "Orthogonal matrix"
+        },
+        {
+          "id": "idempotent-matrix",
+          "text": "Idempotent matrix"
+        },
+        {
+          "id": "partition-matrix-and-their-properties",
+          "text": "Partition matrix and their properties"
+        },
+        {
+          "id": "quadratic-forms",
+          "text": "Quadratic forms"
+        },
+        {
+          "id": "systems-of-linear-equations-and-solutions",
+          "text": "Systems of linear equations and solutions"
+        },
+        {
+          "id": "gaussian-elimination",
+          "text": "Gaussian elimination"
+        },
+        {
+          "id": "eigenvalues-and-eigenvectors",
+          "text": "Eigenvalues and eigenvectors"
+        },
+        {
+          "id": "determinant",
+          "text": "Determinant"
+        },
+        {
+          "id": "rank",
+          "text": "Rank"
+        },
+        {
+          "id": "nullity",
+          "text": "Nullity"
+        },
+        {
+          "id": "projections",
+          "text": "Projections"
+        },
+        {
+          "id": "lu-decomposition",
+          "text": "LU decomposition"
+        },
+        {
+          "id": "singular-value-decomposition",
+          "text": "Singular value decomposition"
+        }
+      ],
+      "name": "Linear Algebra"
+    },
+    {
+      "id": "calculus-and-optimization",
+      "items": [
+        {
+          "id": "functions-of-a-single-variable",
+          "text": "Functions of a single variable"
+        },
+        {
+          "id": "limit",
+          "text": "Limit"
+        },
+        {
+          "id": "continuity-and-differentiability",
+          "text": "Continuity and differentiability"
+        },
+        {
+          "id": "taylor-series",
+          "text": "Taylor series"
+        },
+        {
+          "id": "maxima-and-minima",
+          "text": "Maxima and minima"
+        },
+        {
+          "id": "optimization-involving-a-single-variable",
+          "text": "Optimization involving a single variable"
+        }
+      ],
+      "name": "Calculus and Optimization"
+    },
+    {
+      "id": "programming-data-structures-and-algorithms",
+      "items": [
+        {
+          "id": "programming-in-python",
+          "text": "Programming in Python"
+        },
+        {
+          "id": "basic-data-structures-stacks-queues-linked-lists-trees-hash-tables",
+          "text": "Basic data structures: stacks, queues, linked lists, trees, hash tables"
+        },
+        {
+          "id": "search-algorithms-linear-search-and-binary-search",
+          "text": "Search algorithms: linear search and binary search"
+        },
+        {
+          "id": "basic-sorting-algorithms-selection-sort-bubble-sort-and-insertion-sort",
+          "text": "Basic sorting algorithms: selection sort, bubble sort and insertion sort"
+        },
+        {
+          "id": "divide-and-conquer-mergesort-quicksort",
+          "text": "Divide and conquer: mergesort, quicksort"
+        },
+        {
+          "id": "introduction-to-graph-theory",
+          "text": "Introduction to graph theory"
+        },
+        {
+          "id": "basic-graph-algorithms-traversals-and-shortest-path",
+          "text": "Basic graph algorithms: traversals and shortest path"
+        }
+      ],
+      "name": "Programming, Data Structures and Algorithms"
+    },
+    {
+      "id": "database-management-and-warehousing",
+      "items": [
+        {
+          "id": "er-model",
+          "text": "ER-model"
+        },
+        {
+          "id": "relational-model-relational-algebra-tuple-calculus-sql",
+          "text": "Relational model: relational algebra, tuple calculus, SQL"
+        },
+        {
+          "id": "integrity-constraints",
+          "text": "Integrity constraints"
+        },
+        {
+          "id": "normal-form",
+          "text": "Normal form"
+        },
+        {
+          "id": "file-organization",
+          "text": "File organization"
+        },
+        {
+          "id": "indexing",
+          "text": "Indexing"
+        },
+        {
+          "id": "data-types",
+          "text": "Data types"
+        },
+        {
+          "id": "data-transformation-such-as-normalization-discretization-sampling-compression",
+          "text": "Data transformation such as normalization, discretization, sampling, compression"
+        },
+        {
+          "id": "data-warehouse-modelling-schema-for-multidimensional-data-models-concept-hierarc",
+          "text": "Data warehouse modelling: schema for multidimensional data models, concept hierarchies"
+        },
+        {
+          "id": "measures-categorization-and-computations",
+          "text": "Measures: categorization and computations"
+        }
+      ],
+      "name": "Database Management and Warehousing"
+    },
+    {
+      "id": "machine-learning",
+      "items": [
+        {
+          "id": "supervised-learning-regression-and-classification-problems",
+          "text": "Supervised learning: regression and classification problems"
+        },
+        {
+          "id": "simple-linear-regression",
+          "text": "Simple linear regression"
+        },
+        {
+          "id": "multiple-linear-regression",
+          "text": "Multiple linear regression"
+        },
+        {
+          "id": "ridge-regression",
+          "text": "Ridge regression"
+        },
+        {
+          "id": "logistic-regression",
+          "text": "Logistic regression"
+        },
+        {
+          "id": "k-nearest-neighbour",
+          "text": "k-nearest neighbour"
+        },
+        {
+          "id": "naive-bayes-classifier",
+          "text": "Naive Bayes classifier"
+        },
+        {
+          "id": "linear-discriminant-analysis",
+          "text": "Linear discriminant analysis"
+        },
+        {
+          "id": "support-vector-machine",
+          "text": "Support vector machine"
+        },
+        {
+          "id": "decision-trees",
+          "text": "Decision trees"
+        },
+        {
+          "id": "bias-variance-trade-off",
+          "text": "Bias-variance trade-off"
+        },
+        {
+          "id": "cross-validation-methods-such-as-leave-one-out-loo-cross-validation-k-folds-cros",
+          "text": "Cross-validation methods such as leave-one-out (LOO) cross-validation, k-folds cross-validation"
+        },
+        {
+          "id": "multi-layer-perceptron",
+          "text": "Multi-layer perceptron"
+        },
+        {
+          "id": "feed-forward-neural-network",
+          "text": "Feed-forward neural network"
+        },
+        {
+          "id": "unsupervised-learning-clustering-algorithms",
+          "text": "Unsupervised learning: clustering algorithms"
+        },
+        {
+          "id": "k-means-k-medoid",
+          "text": "k-means/k-medoid"
+        },
+        {
+          "id": "hierarchical-clustering-top-down-bottom-up-single-linkage-multiple-linkage",
+          "text": "Hierarchical clustering: top-down, bottom-up: single-linkage, multiple-linkage"
+        },
+        {
+          "id": "dimensionality-reduction",
+          "text": "Dimensionality reduction"
+        },
+        {
+          "id": "principal-component-analysis",
+          "text": "Principal component analysis"
+        }
+      ],
+      "name": "Machine Learning"
+    },
+    {
+      "id": "ai",
+      "items": [
+        {
+          "id": "search-informed-uninformed-adversarial",
+          "text": "Search: informed, uninformed, adversarial"
+        },
+        {
+          "id": "logic-propositional-predicate",
+          "text": "Logic: propositional, predicate"
+        },
+        {
+          "id": "reasoning-under-uncertainty-conditional-independence-representation",
+          "text": "Reasoning under uncertainty: conditional independence representation"
+        },
+        {
+          "id": "exact-inference-through-variable-elimination",
+          "text": "Exact inference through variable elimination"
+        },
+        {
+          "id": "approximate-inference-through-sampling",
+          "text": "Approximate inference through sampling"
+        }
+      ],
+      "name": "AI"
+    }
+  ]
+}

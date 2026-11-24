@@ -1,0 +1,16 @@
+slug: gen-graph-basics-002
+kind: question
+origin: generated
+type: nat
+marks: 2
+topics:
+  - graph-basics
+stem: |
+  How many edges has a tree on seven vertices?
+answer:
+  min: 6
+  max: 6
+solution: |
+  Worked solution.
+created: 2026-11-01
+updated: 2026-11-10

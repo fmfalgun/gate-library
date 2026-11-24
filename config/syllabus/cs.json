@@ -1,0 +1,385 @@
+{
+  "exam_year": 2027,
+  "name": "Computer Science and Information Technology",
+  "paper": "cs",
+  "retrieved": "2026-11-24",
+  "source_url": "https://gate2027.iitm.ac.in/static/doc/GATE2027_Syllabus/CS_GATE2027_Syllabus.pdf",
+  "subjects": [
+    {
+      "id": "engineering-mathematics",
+      "items": [
+        {
+          "id": "discrete-mathematics-propositional-and-first-order-logic",
+          "text": "Discrete Mathematics: Propositional and first order logic"
+        },
+        {
+          "id": "discrete-mathematics-sets-relations-functions-partial-orders-and-lattices",
+          "text": "Discrete Mathematics: Sets, relations, functions, partial orders and lattices"
+        },
+        {
+          "id": "discrete-mathematics-monoids-groups",
+          "text": "Discrete Mathematics: Monoids, Groups"
+        },
+        {
+          "id": "discrete-mathematics-graphs-connectivity-matching-colouring",
+          "text": "Discrete Mathematics: Graphs: connectivity, matching, colouring"
+        },
+        {
+          "id": "discrete-mathematics-combinatorics-counting-recurrence-relations-generating-func",
+          "text": "Discrete Mathematics: Combinatorics: counting, recurrence relations, generating functions"
+        },
+        {
+          "id": "linear-algebra-matrices",
+          "text": "Linear Algebra: Matrices"
+        },
+        {
+          "id": "linear-algebra-determinants",
+          "text": "Linear Algebra: Determinants"
+        },
+        {
+          "id": "linear-algebra-system-of-linear-equations",
+          "text": "Linear Algebra: System of linear equations"
+        },
+        {
+          "id": "linear-algebra-eigenvalues-and-eigenvectors",
+          "text": "Linear Algebra: Eigenvalues and eigenvectors"
+        },
+        {
+          "id": "linear-algebra-lu-decomposition",
+          "text": "Linear Algebra: LU decomposition"
+        },
+        {
+          "id": "calculus-limits",
+          "text": "Calculus: Limits"
+        },
+        {
+          "id": "calculus-continuity-and-differentiability",
+          "text": "Calculus: Continuity and differentiability"
+        },
+        {
+          "id": "calculus-maxima-and-minima",
+          "text": "Calculus: Maxima and minima"
+        },
+        {
+          "id": "calculus-mean-value-theorem",
+          "text": "Calculus: Mean value theorem"
+        },
+        {
+          "id": "calculus-integration",
+          "text": "Calculus: Integration"
+        },
+        {
+          "id": "probability-and-statistics-random-variables",
+          "text": "Probability and Statistics: Random variables"
+        },
+        {
+          "id": "probability-and-statistics-uniform-normal-exponential-poisson-and-binomial-distr",
+          "text": "Probability and Statistics: Uniform, normal, exponential, Poisson and binomial distributions"
+        },
+        {
+          "id": "probability-and-statistics-mean-median-mode-and-standard-deviation",
+          "text": "Probability and Statistics: Mean, median, mode and standard deviation"
+        },
+        {
+          "id": "probability-and-statistics-conditional-probability-and-bayes-theorem",
+          "text": "Probability and Statistics: Conditional probability and Bayes theorem"
+        }
+      ],
+      "name": "Engineering Mathematics"
+    },
+    {
+      "id": "digital-logic",
+      "items": [
+        {
+          "id": "boolean-algebra-and-minimization-algebraic-technique-karnaugh-map-tabular-method",
+          "text": "Boolean algebra and minimization: algebraic technique, Karnaugh map, tabular method"
+        },
+        {
+          "id": "design-of-combinational-and-sequential-circuits",
+          "text": "Design of combinational and sequential circuits"
+        },
+        {
+          "id": "number-representation-and-arithmetic-fixed-and-floating-point",
+          "text": "Number representation and arithmetic (fixed and floating point)"
+        }
+      ],
+      "name": "Digital Logic"
+    },
+    {
+      "id": "computer-organization-and-architecture",
+      "items": [
+        {
+          "id": "instruction-set-and-addressing-modes",
+          "text": "Instruction set and addressing modes"
+        },
+        {
+          "id": "design-of-arithmetic-and-logic-unit-alu",
+          "text": "Design of arithmetic and logic unit (ALU)"
+        },
+        {
+          "id": "design-of-control-unit-hardwired-and-microprogrammed",
+          "text": "Design of control unit: hardwired and microprogrammed"
+        },
+        {
+          "id": "memory-interfacing-and-hierarchy-performance-cache-memory-mapping",
+          "text": "Memory interfacing and hierarchy: performance, cache memory mapping"
+        },
+        {
+          "id": "i-o-interface-interrupt-and-dma",
+          "text": "I/O interface (interrupt and DMA)"
+        },
+        {
+          "id": "instruction-pipelining-pipeline-hazards",
+          "text": "Instruction pipelining, pipeline hazards"
+        }
+      ],
+      "name": "Computer Organization and Architecture"
+    },
+    {
+      "id": "programming-and-data-structures",
+      "items": [
+        {
+          "id": "programming-in-c",
+          "text": "Programming in C"
+        },
+        {
+          "id": "recursion",
+          "text": "Recursion"
+        },
+        {
+          "id": "arrays",
+          "text": "Arrays"
+        },
+        {
+          "id": "stacks",
+          "text": "Stacks"
+        },
+        {
+          "id": "queues",
+          "text": "Queues"
+        },
+        {
+          "id": "linked-lists",
+          "text": "Linked lists"
+        },
+        {
+          "id": "trees",
+          "text": "Trees"
+        },
+        {
+          "id": "binary-search-trees",
+          "text": "Binary search trees"
+        },
+        {
+          "id": "binary-heaps",
+          "text": "Binary heaps"
+        },
+        {
+          "id": "graphs",
+          "text": "Graphs"
+        }
+      ],
+      "name": "Programming and Data Structures"
+    },
+    {
+      "id": "algorithms",
+      "items": [
+        {
+          "id": "searching",
+          "text": "Searching"
+        },
+        {
+          "id": "sorting",
+          "text": "Sorting"
+        },
+        {
+          "id": "hashing",
+          "text": "Hashing"
+        },
+        {
+          "id": "asymptotic-worst-case-time-and-space-complexity",
+          "text": "Asymptotic worst case time and space complexity"
+        },
+        {
+          "id": "algorithm-design-techniques-greedy-dynamic-programming-and-divide-and-conquer",
+          "text": "Algorithm design techniques: greedy, dynamic programming and divide-and-conquer"
+        },
+        {
+          "id": "graph-traversals",
+          "text": "Graph traversals"
+        },
+        {
+          "id": "minimum-spanning-trees",
+          "text": "Minimum spanning trees"
+        },
+        {
+          "id": "shortest-paths",
+          "text": "Shortest paths"
+        }
+      ],
+      "name": "Algorithms"
+    },
+    {
+      "id": "theory-of-computation",
+      "items": [
+        {
+          "id": "regular-expressions-and-finite-automata",
+          "text": "Regular expressions and finite automata"
+        },
+        {
+          "id": "context-free-grammars-and-push-down-automata",
+          "text": "Context-free grammars and push-down automata"
+        },
+        {
+          "id": "regular-and-context-free-languages-pumping-lemma",
+          "text": "Regular and context-free languages, pumping lemma"
+        },
+        {
+          "id": "turing-machines-and-undecidability",
+          "text": "Turing machines and undecidability"
+        }
+      ],
+      "name": "Theory of Computation"
+    },
+    {
+      "id": "compiler-design",
+      "items": [
+        {
+          "id": "lexical-analysis",
+          "text": "Lexical analysis"
+        },
+        {
+          "id": "parsing",
+          "text": "Parsing"
+        },
+        {
+          "id": "syntax-directed-translation",
+          "text": "Syntax-directed translation"
+        },
+        {
+          "id": "runtime-environments",
+          "text": "Runtime environments"
+        },
+        {
+          "id": "intermediate-code-generation",
+          "text": "Intermediate code generation"
+        },
+        {
+          "id": "local-optimisation",
+          "text": "Local optimisation"
+        },
+        {
+          "id": "data-flow-analyses-constant-propagation-liveness-analysis-common-sub-expression",
+          "text": "Data flow analyses: constant propagation, liveness analysis, common sub expression elimination"
+        }
+      ],
+      "name": "Compiler Design"
+    },
+    {
+      "id": "operating-system",
+      "items": [
+        {
+          "id": "system-calls",
+          "text": "System calls"
+        },
+        {
+          "id": "processes",
+          "text": "Processes"
+        },
+        {
+          "id": "threads",
+          "text": "Threads"
+        },
+        {
+          "id": "inter-process-communication",
+          "text": "Inter-process communication"
+        },
+        {
+          "id": "concurrency-and-synchronization",
+          "text": "Concurrency and synchronization"
+        },
+        {
+          "id": "deadlock",
+          "text": "Deadlock"
+        },
+        {
+          "id": "cpu-and-i-o-scheduling",
+          "text": "CPU and I/O scheduling"
+        },
+        {
+          "id": "memory-management-and-virtual-memory",
+          "text": "Memory management and virtual memory"
+        },
+        {
+          "id": "file-systems",
+          "text": "File systems"
+        }
+      ],
+      "name": "Operating System"
+    },
+    {
+      "id": "databases",
+      "items": [
+        {
+          "id": "er-model",
+          "text": "ER-model"
+        },
+        {
+          "id": "relational-model-relational-algebra-tuple-calculus-sql",
+          "text": "Relational model: relational algebra, tuple calculus, SQL"
+        },
+        {
+          "id": "integrity-constraints-normal-forms",
+          "text": "Integrity constraints, normal forms"
+        },
+        {
+          "id": "file-organization",
+          "text": "File organization"
+        },
+        {
+          "id": "indexing-e-g-b-and-b-trees",
+          "text": "Indexing (e.g., B and B+ trees)"
+        },
+        {
+          "id": "transactions-and-concurrency-control",
+          "text": "Transactions and concurrency control"
+        }
+      ],
+      "name": "Databases"
+    },
+    {
+      "id": "computer-networks",
+      "items": [
+        {
+          "id": "principles-of-layering",
+          "text": "Principles of Layering"
+        },
+        {
+          "id": "basics-of-switching-circuit-packet-and-virtual-circuit-and-performance-metrics",
+          "text": "Basics of switching (circuit, packet and virtual circuit) and performance metrics"
+        },
+        {
+          "id": "data-link-layer-error-detection-medium-access-control-ethernet",
+          "text": "Data link layer: error detection, Medium Access Control, Ethernet"
+        },
+        {
+          "id": "distance-vector-and-link-state-routing",
+          "text": "Distance vector and link state routing"
+        },
+        {
+          "id": "ipv4-fragmentation-cidr-notation-network-address-translation",
+          "text": "IPv4: Fragmentation, CIDR Notation, Network Address Translation"
+        },
+        {
+          "id": "tcp-flow-control-and-congestion-control-socket-api",
+          "text": "TCP: flow control and congestion control, socket API"
+        },
+        {
+          "id": "dns-and-http",
+          "text": "DNS and HTTP"
+        }
+      ],
+      "name": "Computer Networks"
+    }
+  ]
+}

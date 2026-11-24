@@ -1,0 +1,2273 @@
+{
+  "papers": {
+    "cs": {
+      "all": {
+        "covered": 1,
+        "exam_ready": 0,
+        "items": 79,
+        "percent_covered": 1.3,
+        "percent_exam_ready": 0.0
+      },
+      "covered": 1,
+      "exam_ready": 0,
+      "exam_year": 2027,
+      "items": 79,
+      "name": "Computer Science and Information Technology",
+      "percent_covered": 1.3,
+      "percent_exam_ready": 0.0,
+      "retrieved": "2026-11-24",
+      "source_url": "https://gate2027.iitm.ac.in/static/doc/GATE2027_Syllabus/CS_GATE2027_Syllabus.pdf",
+      "subjects": [
+        {
+          "all": {
+            "covered": 1,
+            "exam_ready": 0,
+            "items": 19,
+            "percent_covered": 5.3,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 1,
+          "exam_ready": 0,
+          "id": "engineering-mathematics",
+          "items": 19,
+          "name": "Engineering Mathematics",
+          "percent_covered": 5.3,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "discrete-mathematics-propositional-and-first-order-logic",
+              "text": "Discrete Mathematics: Propositional and first order logic"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "discrete-mathematics-sets-relations-functions-partial-orders-and-lattices",
+              "text": "Discrete Mathematics: Sets, relations, functions, partial orders and lattices"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "discrete-mathematics-monoids-groups",
+              "text": "Discrete Mathematics: Monoids, Groups"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "discrete-mathematics-graphs-connectivity-matching-colouring",
+              "text": "Discrete Mathematics: Graphs: connectivity, matching, colouring"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "discrete-mathematics-combinatorics-counting-recurrence-relations-generating-func",
+              "text": "Discrete Mathematics: Combinatorics: counting, recurrence relations, generating functions"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "linear-algebra-matrices",
+              "text": "Linear Algebra: Matrices"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "linear-algebra-determinants",
+              "text": "Linear Algebra: Determinants"
+            },
+            {
+              "all": {
+                "best_status": "learning",
+                "covered_by": [
+                  "gaussian-elimination"
+                ]
+              },
+              "best_status": "learning",
+              "covered_by": [
+                "gaussian-elimination"
+              ],
+              "id": "linear-algebra-system-of-linear-equations",
+              "text": "Linear Algebra: System of linear equations"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "linear-algebra-eigenvalues-and-eigenvectors",
+              "text": "Linear Algebra: Eigenvalues and eigenvectors"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "linear-algebra-lu-decomposition",
+              "text": "Linear Algebra: LU decomposition"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "calculus-limits",
+              "text": "Calculus: Limits"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "calculus-continuity-and-differentiability",
+              "text": "Calculus: Continuity and differentiability"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "calculus-maxima-and-minima",
+              "text": "Calculus: Maxima and minima"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "calculus-mean-value-theorem",
+              "text": "Calculus: Mean value theorem"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "calculus-integration",
+              "text": "Calculus: Integration"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "probability-and-statistics-random-variables",
+              "text": "Probability and Statistics: Random variables"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "probability-and-statistics-uniform-normal-exponential-poisson-and-binomial-distr",
+              "text": "Probability and Statistics: Uniform, normal, exponential, Poisson and binomial distributions"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "probability-and-statistics-mean-median-mode-and-standard-deviation",
+              "text": "Probability and Statistics: Mean, median, mode and standard deviation"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "probability-and-statistics-conditional-probability-and-bayes-theorem",
+              "text": "Probability and Statistics: Conditional probability and Bayes theorem"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 3,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "digital-logic",
+          "items": 3,
+          "name": "Digital Logic",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "boolean-algebra-and-minimization-algebraic-technique-karnaugh-map-tabular-method",
+              "text": "Boolean algebra and minimization: algebraic technique, Karnaugh map, tabular method"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "design-of-combinational-and-sequential-circuits",
+              "text": "Design of combinational and sequential circuits"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "number-representation-and-arithmetic-fixed-and-floating-point",
+              "text": "Number representation and arithmetic (fixed and floating point)"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 6,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "computer-organization-and-architecture",
+          "items": 6,
+          "name": "Computer Organization and Architecture",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "instruction-set-and-addressing-modes",
+              "text": "Instruction set and addressing modes"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "design-of-arithmetic-and-logic-unit-alu",
+              "text": "Design of arithmetic and logic unit (ALU)"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "design-of-control-unit-hardwired-and-microprogrammed",
+              "text": "Design of control unit: hardwired and microprogrammed"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "memory-interfacing-and-hierarchy-performance-cache-memory-mapping",
+              "text": "Memory interfacing and hierarchy: performance, cache memory mapping"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "i-o-interface-interrupt-and-dma",
+              "text": "I/O interface (interrupt and DMA)"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "instruction-pipelining-pipeline-hazards",
+              "text": "Instruction pipelining, pipeline hazards"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 10,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "programming-and-data-structures",
+          "items": 10,
+          "name": "Programming and Data Structures",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "programming-in-c",
+              "text": "Programming in C"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "recursion",
+              "text": "Recursion"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "arrays",
+              "text": "Arrays"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "stacks",
+              "text": "Stacks"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "queues",
+              "text": "Queues"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "linked-lists",
+              "text": "Linked lists"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "trees",
+              "text": "Trees"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "binary-search-trees",
+              "text": "Binary search trees"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "binary-heaps",
+              "text": "Binary heaps"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "graphs",
+              "text": "Graphs"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 8,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "algorithms",
+          "items": 8,
+          "name": "Algorithms",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "searching",
+              "text": "Searching"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "sorting",
+              "text": "Sorting"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "hashing",
+              "text": "Hashing"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "asymptotic-worst-case-time-and-space-complexity",
+              "text": "Asymptotic worst case time and space complexity"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "algorithm-design-techniques-greedy-dynamic-programming-and-divide-and-conquer",
+              "text": "Algorithm design techniques: greedy, dynamic programming and divide-and-conquer"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "graph-traversals",
+              "text": "Graph traversals"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "minimum-spanning-trees",
+              "text": "Minimum spanning trees"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "shortest-paths",
+              "text": "Shortest paths"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 4,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "theory-of-computation",
+          "items": 4,
+          "name": "Theory of Computation",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "regular-expressions-and-finite-automata",
+              "text": "Regular expressions and finite automata"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "context-free-grammars-and-push-down-automata",
+              "text": "Context-free grammars and push-down automata"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "regular-and-context-free-languages-pumping-lemma",
+              "text": "Regular and context-free languages, pumping lemma"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "turing-machines-and-undecidability",
+              "text": "Turing machines and undecidability"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 7,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "compiler-design",
+          "items": 7,
+          "name": "Compiler Design",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "lexical-analysis",
+              "text": "Lexical analysis"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "parsing",
+              "text": "Parsing"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "syntax-directed-translation",
+              "text": "Syntax-directed translation"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "runtime-environments",
+              "text": "Runtime environments"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "intermediate-code-generation",
+              "text": "Intermediate code generation"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "local-optimisation",
+              "text": "Local optimisation"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "data-flow-analyses-constant-propagation-liveness-analysis-common-sub-expression",
+              "text": "Data flow analyses: constant propagation, liveness analysis, common sub expression elimination"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 9,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "operating-system",
+          "items": 9,
+          "name": "Operating System",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "system-calls",
+              "text": "System calls"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "processes",
+              "text": "Processes"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "threads",
+              "text": "Threads"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "inter-process-communication",
+              "text": "Inter-process communication"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "concurrency-and-synchronization",
+              "text": "Concurrency and synchronization"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "deadlock",
+              "text": "Deadlock"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "cpu-and-i-o-scheduling",
+              "text": "CPU and I/O scheduling"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "memory-management-and-virtual-memory",
+              "text": "Memory management and virtual memory"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "file-systems",
+              "text": "File systems"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 6,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "databases",
+          "items": 6,
+          "name": "Databases",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "er-model",
+              "text": "ER-model"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "relational-model-relational-algebra-tuple-calculus-sql",
+              "text": "Relational model: relational algebra, tuple calculus, SQL"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "integrity-constraints-normal-forms",
+              "text": "Integrity constraints, normal forms"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "file-organization",
+              "text": "File organization"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "indexing-e-g-b-and-b-trees",
+              "text": "Indexing (e.g., B and B+ trees)"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "transactions-and-concurrency-control",
+              "text": "Transactions and concurrency control"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 7,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "computer-networks",
+          "items": 7,
+          "name": "Computer Networks",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "principles-of-layering",
+              "text": "Principles of Layering"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "basics-of-switching-circuit-packet-and-virtual-circuit-and-performance-metrics",
+              "text": "Basics of switching (circuit, packet and virtual circuit) and performance metrics"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "data-link-layer-error-detection-medium-access-control-ethernet",
+              "text": "Data link layer: error detection, Medium Access Control, Ethernet"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "distance-vector-and-link-state-routing",
+              "text": "Distance vector and link state routing"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "ipv4-fragmentation-cidr-notation-network-address-translation",
+              "text": "IPv4: Fragmentation, CIDR Notation, Network Address Translation"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "tcp-flow-control-and-congestion-control-socket-api",
+              "text": "TCP: flow control and congestion control, socket API"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "dns-and-http",
+              "text": "DNS and HTTP"
+            }
+          ]
+        }
+      ]
+    },
+    "da": {
+      "all": {
+        "covered": 4,
+        "exam_ready": 0,
+        "items": 88,
+        "percent_covered": 4.5,
+        "percent_exam_ready": 0.0
+      },
+      "covered": 4,
+      "exam_ready": 0,
+      "exam_year": 2027,
+      "items": 88,
+      "name": "Data Science and Artificial Intelligence",
+      "percent_covered": 4.5,
+      "percent_exam_ready": 0.0,
+      "retrieved": "2026-11-24",
+      "source_url": "https://gate2027.iitm.ac.in/static/doc/GATE2027_Syllabus/DA_GATE2027_Syllabus.pdf",
+      "subjects": [
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 23,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "probability-and-statistics",
+          "items": 23,
+          "name": "Probability and Statistics",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "counting-permutation-and-combinations",
+              "text": "Counting (permutation and combinations)"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "probability-axioms",
+              "text": "Probability axioms"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "sample-space",
+              "text": "Sample space"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "events",
+              "text": "Events"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "independent-events",
+              "text": "Independent events"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "mutually-exclusive-events",
+              "text": "Mutually exclusive events"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "marginal-conditional-and-joint-probability",
+              "text": "Marginal, conditional and joint probability"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "bayes-theorem",
+              "text": "Bayes Theorem"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "conditional-expectation-and-variance",
+              "text": "Conditional expectation and variance"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "mean-median-mode-and-standard-deviation",
+              "text": "Mean, median, mode and standard deviation"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "correlation-and-covariance",
+              "text": "Correlation and covariance"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "random-variables",
+              "text": "Random variables"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "discrete-random-variables-and-probability-mass-functions",
+              "text": "Discrete random variables and probability mass functions"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "uniform-bernoulli-binomial-distribution",
+              "text": "Uniform, Bernoulli, binomial distribution"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "continuous-random-variables-and-probability-distribution-function",
+              "text": "Continuous random variables and probability distribution function"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "uniform-exponential-poisson-normal-standard-normal-t-distribution-chi-squared-di",
+              "text": "Uniform, exponential, Poisson, normal, standard normal, t-distribution, chi-squared distributions"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "cumulative-distribution-function",
+              "text": "Cumulative distribution function"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "conditional-pdf",
+              "text": "Conditional PDF"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "central-limit-theorem",
+              "text": "Central limit theorem"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "confidence-interval",
+              "text": "Confidence interval"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "z-test",
+              "text": "z-test"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "t-test",
+              "text": "t-test"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "chi-squared-test",
+              "text": "Chi-squared test"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 4,
+            "exam_ready": 0,
+            "items": 18,
+            "percent_covered": 22.2,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 4,
+          "exam_ready": 0,
+          "id": "linear-algebra",
+          "items": 18,
+          "name": "Linear Algebra",
+          "percent_covered": 22.2,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "vector-space",
+              "text": "Vector space"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "subspaces",
+              "text": "Subspaces"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "linear-dependence-and-independence-of-vectors",
+              "text": "Linear dependence and independence of vectors"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "matrices",
+              "text": "Matrices"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "projection-matrix",
+              "text": "Projection matrix"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "orthogonal-matrix",
+              "text": "Orthogonal matrix"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "idempotent-matrix",
+              "text": "Idempotent matrix"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "partition-matrix-and-their-properties",
+              "text": "Partition matrix and their properties"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "quadratic-forms",
+              "text": "Quadratic forms"
+            },
+            {
+              "all": {
+                "best_status": "learning",
+                "covered_by": [
+                  "system-of-linear-equations"
+                ]
+              },
+              "best_status": "learning",
+              "covered_by": [
+                "system-of-linear-equations"
+              ],
+              "id": "systems-of-linear-equations-and-solutions",
+              "text": "Systems of linear equations and solutions"
+            },
+            {
+              "all": {
+                "best_status": "learning",
+                "covered_by": [
+                  "gaussian-elimination"
+                ]
+              },
+              "best_status": "learning",
+              "covered_by": [
+                "gaussian-elimination"
+              ],
+              "id": "gaussian-elimination",
+              "text": "Gaussian elimination"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "eigenvalues-and-eigenvectors",
+              "text": "Eigenvalues and eigenvectors"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "determinant",
+              "text": "Determinant"
+            },
+            {
+              "all": {
+                "best_status": "learning",
+                "covered_by": [
+                  "matrix-rank"
+                ]
+              },
+              "best_status": "learning",
+              "covered_by": [
+                "matrix-rank"
+              ],
+              "id": "rank",
+              "text": "Rank"
+            },
+            {
+              "all": {
+                "best_status": "learning",
+                "covered_by": [
+                  "matrix-rank"
+                ]
+              },
+              "best_status": "learning",
+              "covered_by": [
+                "matrix-rank"
+              ],
+              "id": "nullity",
+              "text": "Nullity"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "projections",
+              "text": "Projections"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "lu-decomposition",
+              "text": "LU decomposition"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "singular-value-decomposition",
+              "text": "Singular value decomposition"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 6,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "calculus-and-optimization",
+          "items": 6,
+          "name": "Calculus and Optimization",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "functions-of-a-single-variable",
+              "text": "Functions of a single variable"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "limit",
+              "text": "Limit"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "continuity-and-differentiability",
+              "text": "Continuity and differentiability"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "taylor-series",
+              "text": "Taylor series"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "maxima-and-minima",
+              "text": "Maxima and minima"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "optimization-involving-a-single-variable",
+              "text": "Optimization involving a single variable"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 7,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "programming-data-structures-and-algorithms",
+          "items": 7,
+          "name": "Programming, Data Structures and Algorithms",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "programming-in-python",
+              "text": "Programming in Python"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "basic-data-structures-stacks-queues-linked-lists-trees-hash-tables",
+              "text": "Basic data structures: stacks, queues, linked lists, trees, hash tables"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "search-algorithms-linear-search-and-binary-search",
+              "text": "Search algorithms: linear search and binary search"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "basic-sorting-algorithms-selection-sort-bubble-sort-and-insertion-sort",
+              "text": "Basic sorting algorithms: selection sort, bubble sort and insertion sort"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "divide-and-conquer-mergesort-quicksort",
+              "text": "Divide and conquer: mergesort, quicksort"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "introduction-to-graph-theory",
+              "text": "Introduction to graph theory"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "basic-graph-algorithms-traversals-and-shortest-path",
+              "text": "Basic graph algorithms: traversals and shortest path"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 10,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "database-management-and-warehousing",
+          "items": 10,
+          "name": "Database Management and Warehousing",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "er-model",
+              "text": "ER-model"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "relational-model-relational-algebra-tuple-calculus-sql",
+              "text": "Relational model: relational algebra, tuple calculus, SQL"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "integrity-constraints",
+              "text": "Integrity constraints"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "normal-form",
+              "text": "Normal form"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "file-organization",
+              "text": "File organization"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "indexing",
+              "text": "Indexing"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "data-types",
+              "text": "Data types"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "data-transformation-such-as-normalization-discretization-sampling-compression",
+              "text": "Data transformation such as normalization, discretization, sampling, compression"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "data-warehouse-modelling-schema-for-multidimensional-data-models-concept-hierarc",
+              "text": "Data warehouse modelling: schema for multidimensional data models, concept hierarchies"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "measures-categorization-and-computations",
+              "text": "Measures: categorization and computations"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 19,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "machine-learning",
+          "items": 19,
+          "name": "Machine Learning",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "supervised-learning-regression-and-classification-problems",
+              "text": "Supervised learning: regression and classification problems"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "simple-linear-regression",
+              "text": "Simple linear regression"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "multiple-linear-regression",
+              "text": "Multiple linear regression"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "ridge-regression",
+              "text": "Ridge regression"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "logistic-regression",
+              "text": "Logistic regression"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "k-nearest-neighbour",
+              "text": "k-nearest neighbour"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "naive-bayes-classifier",
+              "text": "Naive Bayes classifier"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "linear-discriminant-analysis",
+              "text": "Linear discriminant analysis"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "support-vector-machine",
+              "text": "Support vector machine"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "decision-trees",
+              "text": "Decision trees"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "bias-variance-trade-off",
+              "text": "Bias-variance trade-off"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "cross-validation-methods-such-as-leave-one-out-loo-cross-validation-k-folds-cros",
+              "text": "Cross-validation methods such as leave-one-out (LOO) cross-validation, k-folds cross-validation"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "multi-layer-perceptron",
+              "text": "Multi-layer perceptron"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "feed-forward-neural-network",
+              "text": "Feed-forward neural network"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "unsupervised-learning-clustering-algorithms",
+              "text": "Unsupervised learning: clustering algorithms"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "k-means-k-medoid",
+              "text": "k-means/k-medoid"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "hierarchical-clustering-top-down-bottom-up-single-linkage-multiple-linkage",
+              "text": "Hierarchical clustering: top-down, bottom-up: single-linkage, multiple-linkage"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "dimensionality-reduction",
+              "text": "Dimensionality reduction"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "principal-component-analysis",
+              "text": "Principal component analysis"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 5,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "ai",
+          "items": 5,
+          "name": "AI",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "search-informed-uninformed-adversarial",
+              "text": "Search: informed, uninformed, adversarial"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "logic-propositional-predicate",
+              "text": "Logic: propositional, predicate"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "reasoning-under-uncertainty-conditional-independence-representation",
+              "text": "Reasoning under uncertainty: conditional independence representation"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "exact-inference-through-variable-elimination",
+              "text": "Exact inference through variable elimination"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "approximate-inference-through-sampling",
+              "text": "Approximate inference through sampling"
+            }
+          ]
+        }
+      ]
+    },
+    "ga": {
+      "all": {
+        "covered": 0,
+        "exam_ready": 0,
+        "items": 14,
+        "percent_covered": 0.0,
+        "percent_exam_ready": 0.0
+      },
+      "covered": 0,
+      "exam_ready": 0,
+      "exam_year": 2027,
+      "items": 14,
+      "name": "General Aptitude",
+      "percent_covered": 0.0,
+      "percent_exam_ready": 0.0,
+      "retrieved": "2026-11-24",
+      "source_url": "https://gate2027.iitm.ac.in/static/doc/GATE2027_Syllabus/GA_GATE2027_Syllabus.pdf",
+      "subjects": [
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 4,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "verbal-aptitude",
+          "items": 4,
+          "name": "Verbal Aptitude",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "basic-english-grammar-tenses-articles-adjectives-prepositions-conjunctions-verb",
+              "text": "Basic English grammar: tenses, articles, adjectives, prepositions, conjunctions, verb-noun agreement, and other parts of speech"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "basic-vocabulary-words-idioms-and-phrases-in-context",
+              "text": "Basic vocabulary: words, idioms, and phrases in context"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "reading-and-comprehension",
+              "text": "Reading and comprehension"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "narrative-sequencing",
+              "text": "Narrative sequencing"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 5,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "quantitative-aptitude",
+          "items": 5,
+          "name": "Quantitative Aptitude",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "data-interpretation-data-graphs-bar-graphs-pie-charts-and-other-graphs-represent",
+              "text": "Data interpretation: data graphs (bar graphs, pie charts, and other graphs representing data)"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "2-and-3-dimensional-plots-maps-and-tables",
+              "text": "2-and 3-dimensional plots, maps, and tables"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "numerical-computation-and-estimation-ratios-percentages-powers-exponents-and-log",
+              "text": "Numerical computation and estimation: ratios, percentages, powers, exponents and logarithms, permutations and combinations, and series"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "mensuration-and-geometry",
+              "text": "Mensuration and geometry"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "elementary-statistics-and-probability",
+              "text": "Elementary statistics and probability"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 3,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "analytical-aptitude",
+          "items": 3,
+          "name": "Analytical Aptitude",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "logic-deduction-and-induction",
+              "text": "Logic: deduction and induction"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "analogy",
+              "text": "Analogy"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "numerical-relations-and-reasoning",
+              "text": "Numerical relations and reasoning"
+            }
+          ]
+        },
+        {
+          "all": {
+            "covered": 0,
+            "exam_ready": 0,
+            "items": 2,
+            "percent_covered": 0.0,
+            "percent_exam_ready": 0.0
+          },
+          "covered": 0,
+          "exam_ready": 0,
+          "id": "spatial-aptitude",
+          "items": 2,
+          "name": "Spatial Aptitude",
+          "percent_covered": 0.0,
+          "percent_exam_ready": 0.0,
+          "syllabus_items": [
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "transformation-of-shapes-translation-rotation-scaling-mirroring-assembling-and-g",
+              "text": "Transformation of shapes: translation, rotation, scaling, mirroring, assembling, and grouping"
+            },
+            {
+              "all": {
+                "best_status": "none",
+                "covered_by": []
+              },
+              "best_status": "none",
+              "covered_by": [],
+              "id": "paper-folding-cutting-and-patterns-in-2-and-3-dimensions",
+              "text": "Paper folding, cutting, and patterns in 2 and 3 dimensions"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,24 @@
+slug: gate-2024-cs-s2-q24
+kind: question
+origin: pyq
+exam:
+  year: 2024
+  paper: cs
+  session: 2
+  number: 23
+type: mcq
+marks: 1
+topics:
+  - shortest-paths
+stem: |
+  Mismatch?
+options:
+  A: "one"
+  B: "two"
+  C: "three"
+  D: "four"
+answer: "A"
+solution: |
+  Worked solution.
+created: 2026-11-01
+updated: 2026-11-10

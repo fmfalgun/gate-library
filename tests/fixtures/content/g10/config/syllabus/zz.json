@@ -1,0 +1,2 @@
+{"paper": "zz", "name": "Broken", "exam_year": 2027, "source_url": "https://example.org/", "retrieved": "2026-11-24",
+ "subjects": [{"id": "s", "name": "S", "items": [{"id": "dup", "text": "A"}, {"id": "dup", "text": "B"}]}]}

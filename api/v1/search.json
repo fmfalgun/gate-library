@@ -1,0 +1,66 @@
+[
+  {
+    "kind": "topic",
+    "papers": [
+      "cs",
+      "da"
+    ],
+    "slug": "gaussian-elimination",
+    "status": "learning",
+    "summary": "Reduce the augmented matrix to row echelon form with row operations, then back-substitute to solve the system.",
+    "tags": [
+      "linear-algebra"
+    ],
+    "title": "Gaussian elimination"
+  },
+  {
+    "kind": "question",
+    "papers": [
+      "cs",
+      "da"
+    ],
+    "slug": "gen-gaussian-elimination-001",
+    "status": null,
+    "summary": "The augmented matrix of a system is $\\left[\\begin{array}{cc|c} 1 & 2 & 5 \\\\ 3 & 4 & 6 \\end{array}\\right]$. After the operation $R_2 \\leftarrow R_2 - 3R_1$, what",
+    "tags": [],
+    "title": "gen-gaussian-elimination-001"
+  },
+  {
+    "kind": "question",
+    "papers": [
+      "cs",
+      "da"
+    ],
+    "slug": "gen-gaussian-elimination-002",
+    "status": null,
+    "summary": "Solve the system $x + y + z = 6$, $2x + 3y + z = 11$, $2x + y + 2z = 10$ by Gaussian elimination. What is the value of $z$?",
+    "tags": [],
+    "title": "gen-gaussian-elimination-002"
+  },
+  {
+    "kind": "topic",
+    "papers": [
+      "da"
+    ],
+    "slug": "matrix-rank",
+    "status": "learning",
+    "summary": "The rank of a matrix is the number of linearly independent rows (equivalently columns), and it decides how many solutions a linear system has.",
+    "tags": [
+      "linear-algebra"
+    ],
+    "title": "Matrix rank"
+  },
+  {
+    "kind": "topic",
+    "papers": [
+      "da"
+    ],
+    "slug": "system-of-linear-equations",
+    "status": "learning",
+    "summary": "A system $Ax = b$ has no solution, exactly one, or infinitely many, and rank tells which.",
+    "tags": [
+      "linear-algebra"
+    ],
+    "title": "System of linear equations"
+  }
+]

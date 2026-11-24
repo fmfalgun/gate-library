@@ -1,0 +1,12 @@
+[
+  {
+    "alias": "dsa-library",
+    "base_url": "https://fmfalgun.github.io/dsa-library/",
+    "exists_check": "index"
+  },
+  {
+    "alias": "library-data",
+    "base_url": "https://fmfalgun.github.io/library-data/",
+    "exists_check": "manifest"
+  }
+]

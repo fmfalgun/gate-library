@@ -1,0 +1,36 @@
+# Validates the repo on every push and pull request to main:
+# unit tests, the no-force check, and the full content check including
+# staleness of api/v1 (G20) and online xref warnings (G21).
+# G17 (attempt log is append-only) compares with the push's previous commit or the PR base.
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    env:
+      GATE_BASE_REF: ${{ github.event_name == 'pull_request' && format('origin/{0}', github.base_ref) || github.event.before }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install requirements
+        run: pip install -r requirements.txt
+      - name: Check scripts for force-based commands
+        run: ci/check-no-force.sh
+      - name: Run tests
+        run: python -m pytest -q
+      - name: Validate content and generated files
+        run: python ci/sync_index.py --check --online

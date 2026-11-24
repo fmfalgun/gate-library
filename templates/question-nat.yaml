@@ -1,0 +1,19 @@
+slug: {{slug}}
+kind: question
+origin: generated
+type: nat
+marks: 1
+topics:
+  - {{topic}}
+stem: |
+  TODO question text
+answer:
+  min: 0
+  max: 0
+solution: |
+  TODO worked solution
+attempts: []
+show_on:
+  - portfolio
+created: {{today}}
+updated: {{today}}

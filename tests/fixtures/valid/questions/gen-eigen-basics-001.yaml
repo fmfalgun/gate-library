@@ -1,0 +1,19 @@
+slug: gen-eigen-basics-001
+kind: question
+origin: generated
+type: msq
+marks: 1
+topics:
+  - eigen-basics
+stem: |
+  Select every eigenvalue of the identity matrix.
+options:
+  A: "one"
+  B: "two"
+  C: "three"
+  D: "four"
+answer: ["A", "C"]
+solution: |
+  Worked solution.
+created: 2026-11-01
+updated: 2026-11-10

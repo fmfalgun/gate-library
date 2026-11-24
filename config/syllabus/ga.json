@@ -1,0 +1,89 @@
+{
+  "exam_year": 2027,
+  "name": "General Aptitude",
+  "paper": "ga",
+  "retrieved": "2026-11-24",
+  "source_url": "https://gate2027.iitm.ac.in/static/doc/GATE2027_Syllabus/GA_GATE2027_Syllabus.pdf",
+  "subjects": [
+    {
+      "id": "verbal-aptitude",
+      "items": [
+        {
+          "id": "basic-english-grammar-tenses-articles-adjectives-prepositions-conjunctions-verb",
+          "text": "Basic English grammar: tenses, articles, adjectives, prepositions, conjunctions, verb-noun agreement, and other parts of speech"
+        },
+        {
+          "id": "basic-vocabulary-words-idioms-and-phrases-in-context",
+          "text": "Basic vocabulary: words, idioms, and phrases in context"
+        },
+        {
+          "id": "reading-and-comprehension",
+          "text": "Reading and comprehension"
+        },
+        {
+          "id": "narrative-sequencing",
+          "text": "Narrative sequencing"
+        }
+      ],
+      "name": "Verbal Aptitude"
+    },
+    {
+      "id": "quantitative-aptitude",
+      "items": [
+        {
+          "id": "data-interpretation-data-graphs-bar-graphs-pie-charts-and-other-graphs-represent",
+          "text": "Data interpretation: data graphs (bar graphs, pie charts, and other graphs representing data)"
+        },
+        {
+          "id": "2-and-3-dimensional-plots-maps-and-tables",
+          "text": "2-and 3-dimensional plots, maps, and tables"
+        },
+        {
+          "id": "numerical-computation-and-estimation-ratios-percentages-powers-exponents-and-log",
+          "text": "Numerical computation and estimation: ratios, percentages, powers, exponents and logarithms, permutations and combinations, and series"
+        },
+        {
+          "id": "mensuration-and-geometry",
+          "text": "Mensuration and geometry"
+        },
+        {
+          "id": "elementary-statistics-and-probability",
+          "text": "Elementary statistics and probability"
+        }
+      ],
+      "name": "Quantitative Aptitude"
+    },
+    {
+      "id": "analytical-aptitude",
+      "items": [
+        {
+          "id": "logic-deduction-and-induction",
+          "text": "Logic: deduction and induction"
+        },
+        {
+          "id": "analogy",
+          "text": "Analogy"
+        },
+        {
+          "id": "numerical-relations-and-reasoning",
+          "text": "Numerical relations and reasoning"
+        }
+      ],
+      "name": "Analytical Aptitude"
+    },
+    {
+      "id": "spatial-aptitude",
+      "items": [
+        {
+          "id": "transformation-of-shapes-translation-rotation-scaling-mirroring-assembling-and-g",
+          "text": "Transformation of shapes: translation, rotation, scaling, mirroring, assembling, and grouping"
+        },
+        {
+          "id": "paper-folding-cutting-and-patterns-in-2-and-3-dimensions",
+          "text": "Paper folding, cutting, and patterns in 2 and 3 dimensions"
+        }
+      ],
+      "name": "Spatial Aptitude"
+    }
+  ]
+}

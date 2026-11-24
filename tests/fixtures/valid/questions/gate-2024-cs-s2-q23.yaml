@@ -1,0 +1,31 @@
+slug: gate-2024-cs-s2-q23
+kind: question
+origin: pyq
+exam:
+  year: 2024
+  paper: cs
+  session: 2
+  number: 23
+source_url: https://gate2024.iisc.ac.in/question-papers/
+type: mcq
+marks: 1
+topics:
+  - shortest-paths
+stem: |
+  Which option is right?
+options:
+  A: "one"
+  B: "two"
+  C: "three"
+  D: "four"
+answer: "B"
+solution: |
+  Worked solution.
+attempts:
+  - date: 2026-11-02
+    result: wrong
+    reason: trap
+  - date: 2026-11-05
+    result: right
+created: 2026-11-01
+updated: 2026-11-10

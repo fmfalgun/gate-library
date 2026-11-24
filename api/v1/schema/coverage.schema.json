@@ -1,0 +1,18 @@
+{
+  "$id": "https://fmfalgun.github.io/gate-library/api/v1/schema/coverage.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "properties": {
+    "papers": {
+      "type": "object"
+    },
+    "schema_version": {
+      "minLength": 1,
+      "type": "string"
+    }
+  },
+  "required": [
+    "schema_version",
+    "papers"
+  ],
+  "type": "object"
+}

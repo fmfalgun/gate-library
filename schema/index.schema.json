@@ -1,0 +1,42 @@
+{
+  "$id": "https://fmfalgun.github.io/gate-library/api/v1/schema/index.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "properties": {
+    "content_hash": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "counts": {
+      "type": "object"
+    },
+    "diagnostics": {
+      "required": [
+        "warnings"
+      ],
+      "type": "object"
+    },
+    "items": {
+      "type": "object"
+    },
+    "redirects": {
+      "type": "object"
+    },
+    "schema_version": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "tags": {
+      "type": "object"
+    }
+  },
+  "required": [
+    "schema_version",
+    "content_hash",
+    "counts",
+    "items",
+    "redirects",
+    "tags",
+    "diagnostics"
+  ],
+  "type": "object"
+}

@@ -1,0 +1,22 @@
+slug: {{slug}}
+kind: question
+origin: generated
+type: mcq
+marks: 1
+topics:
+  - {{topic}}
+stem: |
+  TODO question text
+options:
+  A: "TODO"
+  B: "TODO"
+  C: "TODO"
+  D: "TODO"
+answer: "A"
+solution: |
+  TODO worked solution
+attempts: []
+show_on:
+  - portfolio
+created: {{today}}
+updated: {{today}}

@@ -1,0 +1,35 @@
+# Secrets and keys: never committed (repo hygiene baseline; this repo is public).
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*_sk
+id_rsa*
+id_ed25519*
+id_ecdsa*
+.env
+.env.*
+!.env.example
+secrets/
+
+# Browser profiles and cookies.
+*.sqlite
+cookies*
+.mozilla/
+.config/google-chrome/
+
+# Python.
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Project-local tools (gitleaks etc.), installed per machine.
+.tools/
+
+# Editor and OS leftovers.
+.idea/
+.vscode/
+*.swp
+.DS_Store

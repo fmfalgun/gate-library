@@ -1,0 +1,26 @@
+slug: gen-gaussian-elimination-002
+kind: question
+origin: generated
+type: nat
+marks: 2
+difficulty: medium
+topics:
+  - gaussian-elimination
+  - system-of-linear-equations
+stem: |
+  Solve the system $x + y + z = 6$, $2x + 3y + z = 11$, $2x + y + 2z = 10$ by Gaussian elimination.
+  What is the value of $z$?
+answer:
+  min: 3
+  max: 3
+solution: |
+  $R_2 \leftarrow R_2 - 2R_1$ gives $y - z = -1$. $R_3 \leftarrow R_3 - 2R_1$ gives $-y = -2$, so $y = 2$.
+  Then $z = y + 1 = 3$ and $x = 6 - 2 - 3 = 1$. Check: $2x + 3y + z = 2 + 6 + 3 = 11$.
+fastest_method: |
+  Eliminate $x$ from rows 2 and 3 first; row 3 collapses to a single unknown.
+trap: |
+  The matrix has full rank 3, so the solution is unique; do not stop at a free variable.
+show_on:
+  - portfolio
+created: 2026-11-24
+updated: 2026-11-24

@@ -1,0 +1,80 @@
+{
+  "$id": "https://fmfalgun.github.io/gate-library/api/v1/schema/syllabus.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "exam_year": {
+      "type": "integer"
+    },
+    "name": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "paper": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "retrieved": {
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+      "type": "string"
+    },
+    "source_url": {
+      "pattern": "^https?://",
+      "type": "string"
+    },
+    "subjects": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "items": {
+            "items": {
+              "additionalProperties": false,
+              "properties": {
+                "id": {
+                  "minLength": 1,
+                  "type": "string"
+                },
+                "text": {
+                  "minLength": 1,
+                  "type": "string"
+                }
+              },
+              "required": [
+                "id",
+                "text"
+              ],
+              "type": "object"
+            },
+            "minItems": 1,
+            "type": "array"
+          },
+          "name": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "items"
+        ],
+        "type": "object"
+      },
+      "minItems": 1,
+      "type": "array"
+    }
+  },
+  "required": [
+    "paper",
+    "name",
+    "exam_year",
+    "source_url",
+    "retrieved",
+    "subjects"
+  ],
+  "type": "object"
+}
